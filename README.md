@@ -1,7 +1,7 @@
 <h1>Praktikum Pemrograman Web Dinamis </h1>
 
 ```
-__Nama__  : Alfian Hakim
+#Nama  : Alfian Hakim
 **Nim**   : 1900018398
 **Slot**  : Jumat 16.30
 ```
