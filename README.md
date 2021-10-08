@@ -20,8 +20,15 @@ Slot  : Jumat 16.30
 
 <h1>Materi Praktikum</h1>
 
-| Pertemuan        | Judul Materi           |
+| Praktikum Ke | Judul Materi |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Pertemuan 1  | PHP WEB APPLICATION |
+| Pertemuan 2  | DATABASE |
+| Pertemuan 3  | CRUD (Create, Read, Update, Delete) |
+| Pertemuan 4  | VALIDATION |
+| Pertemuan 5  | SESSION |
+| Pertemuan 6  | APPLICATION AND SECURITY |
+| Pertemuan 7  | SEARCHING |
+| Pertemuan 8  | REPORTING |
+| Pertemuan 9  | XML AND JSON |
+| Pertemuan 10  | WEB SERVICE |
