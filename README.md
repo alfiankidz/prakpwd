@@ -18,9 +18,10 @@ Slot  : Jumat 16.30
 7. Pengerjaan Postest di ketik di word di jadikan pdf. waktu pengerjaan Postest 2x24 Jam.
 ```
 
+<h1>Materi Praktikum</h1>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Pertemuan        | Judul Materi           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
