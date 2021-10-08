@@ -1,7 +1,7 @@
-<h1> #Repository Praktikum Pemrograman Web Dinamis </h1>
+<h1>Praktikum Pemrograman Web Dinamis </h1>
 
 ```
-Nama  : Alfian Hakim
+<b>Nama  : Alfian Hakim
 Nim   : 1900018398
-Slot  : Jumat 16.30
+Slot  : Jumat 16.30</b>
 ```
