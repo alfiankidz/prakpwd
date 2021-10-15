@@ -11,7 +11,7 @@ Slot  : Jumat 16.30
 | Praktikum Ke | Judul Materi |
 | ------------- |:-------------:|
 | Pertemuan 1  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%201" target="_blank">PHP WEB APPLICATION</a> |
-| Pertemuan 2  | DATABASE |
+| Pertemuan 2  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%202" target="_blank">DATABASE</a> |
 | Pertemuan 3  | CRUD (Create, Read, Update, Delete) |
 | Pertemuan 4  | VALIDATION |
 | Pertemuan 5  | SESSION |
