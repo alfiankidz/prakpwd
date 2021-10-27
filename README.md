@@ -13,7 +13,7 @@ Slot  : Jumat 16.30
 | Pertemuan 1  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%201" target="_blank">PHP WEB APPLICATION</a> |
 | Pertemuan 2  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%202" target="_blank">DATABASE</a> |
 | Pertemuan 3  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%203" target="_blank">CRUD (Create, Read, Update, Delete)</a> |
-| Pertemuan 4  | VALIDATION |
+| Pertemuan 4  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%204" target="_blank">VALIDATION</a> |
 | Pertemuan 5  | SESSION |
 | Pertemuan 6  | APPLICATION AND SECURITY |
 | Pertemuan 7  | SEARCHING |
