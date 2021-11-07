@@ -1,4 +1,6 @@
 <?php
+# File php ini adalah form untuk melakukan pendaftaran user.
+# Saat form disubmit data akan dikirim ke input_user.php dengan method POST.
 echo "<h2>Tambah User</h2>
 <form method=post action=input_user.php>
 <table>

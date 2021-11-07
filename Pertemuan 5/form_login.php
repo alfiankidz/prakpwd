@@ -1,4 +1,6 @@
 <?php
+# File php ini adalah form untuk melakukan login user.
+# Saat form disubmit data akan dikirim ke cek_login.php dengan method POST.
 echo "<h2>Login</h2>
 <form method=post action=cek_login.php>
 <table>
