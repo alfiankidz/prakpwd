@@ -33,7 +33,7 @@ $result = mysqli_query($con, "SELECT * FROM mahasiswa ");
             echo "<td>" . $user_data['jurusan'] . "</td>";
             echo "<td><a href='edit.php?nim=$user_data[nim]'>Edit</a> | 
             <a href='delete.php?nim=$user_data[nim]'>Delete</a> | 
-            <a href='lap_mhs.php?nim=$user_data[nim]'>Cetak</a></td></tr>";
+            <a href='lap_nilai.php?nim=$user_data[nim]'>Cetak</a></td></tr>";
         }
         ?>
     </table>
