@@ -17,8 +17,8 @@ Slot  : Jumat 16.30
 | Pertemuan 5  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%205" target="_blank">SESSION</a> |
 | Pertemuan 6  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%206" target="_blank">APPLICATION AND SECURITY</a> |
 | Pertemuan 7  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%207" target="_blank">SEARCHING</a> |
-| Pertemuan 8  | REPORTING |
-| Pertemuan 9  | XML AND JSON |
+| Pertemuan 8  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%208" target="_blank">REPORTING</a> |
+| Pertemuan 9  | <a href="https://github.com/alfiankidz/prakpwd/tree/main/Pertemuan%209" target="_blank">XML AND JSON</a> |
 | Pertemuan 10  | WEB SERVICE |
 
 <h1>Mekanisme Praktikum</h1>
